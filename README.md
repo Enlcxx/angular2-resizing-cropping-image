@@ -26,20 +26,11 @@ import { Component } from '@angular/core';
     `],
   template: `
     <h1>Resizing & cropping images with Angular 2</h1>
+    <ly-cropping #Img format="png"></ly-cropping>
     <input (change)="Img.imgChange($event)" type="file">
-
-    <button (click)="Img.zoom('+')">
-    +
-    </button>
-    <button (click)="Img.zoom('-')">
-    -
-    </button>
-    <button (click)="Img.center()">
-    center
-    </button>
-
-    <ly-cropping #Img format="png">
-    </ly-cropping>
+    <button (click)="Img.zoom('+')">+</button>
+    <button (click)="Img.zoom('-')">-</button>
+    <button (click)="Img.center()">center</button>
     <div>Format input: {{Img._img.type}}</div>
     <br />
     <div>Format output: {{Img.format}}</div>
@@ -48,16 +39,13 @@ import { Component } from '@angular/core';
     <br />
     <img [src]="Img.imgCrop">
     <br />
-    <input [(ngModel)]="Img.sizeW" placeholder="Img size W">
-    <input [(ngModel)]="Img.sizeH" placeholder="Img size H">
+    <input [(ngModel)]="Img.sizeW" placeholder="Img size Width">
+    <input [(ngModel)]="Img.sizeH" placeholder="Img size Height">
     <input [(ngModel)]="Img.img" placeholder="Img">
   `
 })
-export class imgUpload {
-  constructor(){
-
-  }
-}
+export class imgUpload {}
 
 ```
+## SS
 <img src="https://firebasestorage.googleapis.com/v0/b/head-expeditions.appspot.com/o/img.png?alt=media&token=cab4d571-fce8-4a2a-8cbf-4441c94a637b">
