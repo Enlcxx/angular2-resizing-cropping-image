@@ -1,5 +1,6 @@
 # Resizing & cropping images with Angular 2
 ## Install
+[npm](https://www.npmjs.com/pack…/angular2-resizing-cropping-image)
 ```bash
 # install the repo with npm
 npm install angular2-resizing-cropping-image
