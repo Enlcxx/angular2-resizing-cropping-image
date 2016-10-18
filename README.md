@@ -1,6 +1,6 @@
 # Resizing & cropping images with Angular 2
 ## Install
- [npm](https://www.npmjs.com/pack…/angular2-resizing-cropping-image)
+ [npm](https://www.npmjs.com/package/angular2-resizing-cropping-image)
  ```bash
 # install the repo with npm
  npm install angular2-resizing-cropping-image
@@ -16,7 +16,7 @@
  ```
  ```js
  import { Component } from '@angular/core';
- 
+
  @Component({
    selector: 'image-upload',
    styles: [`
@@ -45,7 +45,7 @@
     `
   })
   export class imgUpload {}
-  
+
   ```
 ## SS
 <img src="https://firebasestorage.googleapis.com/v0/b/head-expeditions.appspot.com/o/img.png?alt=media&token=cab4d571-fce8-4a2a-8cbf-4441c94a637b">
