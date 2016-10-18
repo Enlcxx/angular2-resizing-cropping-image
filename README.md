@@ -11,7 +11,6 @@
  import { lyResizingCroppingImagesModule } from 'angular2-resizing-cropping-image';
  @NgModule({
      imports : [lyResizingCroppingImagesModule, ...],
-     exports : [lyResizingCroppingImagesModule, ...],
  })
  ```
  ```js
