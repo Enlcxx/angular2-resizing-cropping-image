@@ -43,10 +43,10 @@
       <input [(ngModel)]="Img.img" placeholder="Img">
     `
   })
-  export class imgUpload {}
+  export class imgUploadDemo {}
 
   ```
-## SS
+## Screen shot
 <img src="https://firebasestorage.googleapis.com/v0/b/head-expeditions.appspot.com/o/img.png?alt=media&token=cab4d571-fce8-4a2a-8cbf-4441c94a637b">
 
 ## Contributing
