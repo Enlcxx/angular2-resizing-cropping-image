@@ -8,9 +8,9 @@
 ## Example
  ```js
 # import
- import { lyResizingCroppingImagesModule } from 'angular2-resizing-cropping-image';
+ import { LyResizingCroppingImageModule } from 'angular2-resizing-cropping-image';
  @NgModule({
-     imports : [lyResizingCroppingImagesModule, ...],
+     imports : [LyResizingCroppingImageModule, ...],
  })
  ```
  ```js
@@ -25,7 +25,7 @@
       `],
     template: `
       <h1>Resizing & cropping images with Angular 2</h1>
-      <ly-cropping #Img format="png"></ly-cropping>
+      <ly-cropping-img #Img format="png"></ly-cropping-img>
       <input (change)="Img.imgChange($event)" type="file">
       <button (click)="Img.zoom('+')">+</button>
       <button (click)="Img.zoom('-')">-</button>
