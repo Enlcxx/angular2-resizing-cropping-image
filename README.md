@@ -1,5 +1,5 @@
 # Resizing & cropping images with Angular 2
-[demo](https://alyle-ui.firebaseapp.com/#/components/resizing-cropping-images)
+new version [demo](https://alyle-ui.firebaseapp.com/components/resizing-cropping-images)
 ## Install
  [npm](https://www.npmjs.com/package/angular2-resizing-cropping-image)
  ```bash
