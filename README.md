@@ -1,10 +1,12 @@
-# Resizing & cropping images with Angular 2
+# Resizing & cropping images with Angular
 
-> Important: this component is now in [Alyle UI](https://alyle-ui.firebaseapp.com/component/resizing-cropping-images)
+> Important: this component is now in [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI)
 
 # Demo
 
-[codepen](https://codepen.io/enlcxx/details/vmadQz)
+* [Alyle UI](https://alyle-ui.firebaseapp.com/component/resizing-cropping-images)
+* [Codepen](https://codepen.io/enlcxx/details/vmadQz)
+* [Stackblitz](https://stackblitz.com/edit/resizing-cropping-image?file=src%2Fapp%2Fapp.component.ts)
 
 ## Install
 [npm](https://www.npmjs.com/package/@alyle/ui)
