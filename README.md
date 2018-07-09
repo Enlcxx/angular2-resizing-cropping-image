@@ -4,7 +4,7 @@
 
 # Demo
 
-* [Alyle UI](https://alyle-ui.firebaseapp.com/component/resizing-cropping-images)
+* [Online](https://alyle-ui.firebaseapp.com/component/resizing-cropping-images)
 * [Codepen](https://codepen.io/enlcxx/details/vmadQz)
 * [Stackblitz](https://stackblitz.com/edit/resizing-cropping-image?file=src%2Fapp%2Fapp.component.ts)
 
