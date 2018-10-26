@@ -1,5 +1,5 @@
-# Resizing & cropping images with Angular
-
+# Resizing & cropping images with Angular 7
+## Image cropper
 > Important: this component is now in [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI)
 
 # Demo
