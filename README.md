@@ -17,4 +17,4 @@ npm install @alyle/ui
 ```
 ## Screenshot
 
-<img src="demo.png">
+<img src="demo1.png">
