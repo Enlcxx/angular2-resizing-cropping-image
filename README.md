@@ -1,11 +1,14 @@
 # Resizing & cropping images for Angular 8
+
 ## Image cropper
+
+Resize, rotate and crop images with Canvas.
+
 > Important: this component is now in [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI)
 
 # Demo
 
-* [Online](https://alyle.io/components/resizing-cropping-images)
-* [Codepen](https://codepen.io/enlcxx/details/vmadQz)
+* [Online](https://alyle.io/components/image-cropper)
 
 ## Install
 [npm](https://www.npmjs.com/package/@alyle/ui)
